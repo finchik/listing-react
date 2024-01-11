@@ -1,4 +1,4 @@
-Список предложений [DEMO]( https://finchik.github.io/listing-react/)
+Список предложений [DEMO]( https://finchik.github.io/listing-react/index.html)
 ===
 
 Необходимо вывести список предложений каталога Etsy.com, используя библиотеку React. После загрузки данных и отрисовки список должен выглядеть так:
